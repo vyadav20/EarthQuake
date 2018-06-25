@@ -15,6 +15,7 @@
  */
 
 package com.example.android.quakereport;
+import com.example.android.QueryUtils;
 
 import android.support.v7.app.AppCompatActivity;
 
@@ -48,3 +49,5 @@ public class EarthquakeActivity extends AppCompatActivity {
         earthquakeListView.setAdapter(adapter);
     }
 }
+
+07466989975
